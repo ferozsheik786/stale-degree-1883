@@ -39,4 +39,8 @@
 *{
   text-decoration:none;
   color:white;
+  font-weight: bold;
+}
+.nav>Link{
+  font-weight: bold;
 }

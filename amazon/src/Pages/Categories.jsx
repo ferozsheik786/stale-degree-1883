@@ -1,8 +1,8 @@
-function categories(){
+function Categories(){
     return(
         <div>
-            <h2>Categories</h2>
+            <p>cate</p>
         </div>
     )
 }
-export default categories;
+export default Categories;
