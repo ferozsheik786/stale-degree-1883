@@ -10,9 +10,6 @@ import Returns from "../Pages/Returns";
 import Cart from "../Pages/Cart";
 import Categories from "../Pages/Categories";
 
-
-
-
 function AllRouters() {
 
     return (

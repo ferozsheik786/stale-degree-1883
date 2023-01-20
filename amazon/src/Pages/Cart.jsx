@@ -1,8 +1,9 @@
-function Cart (){
-    return(
-        <div>
-            <h2>Cart</h2>
-        </div>
-    )
-}
-export default Cart;
+export default function Cart({ cartItems }) {
+    return (
+      <div classname="Cart">
+        Cart Details : {cartItems ? cartItems.length : "0"}
+        <div>{cartItems ? cartItems.map((i) => <div>{i.id} </div>) : ""}</div>
+      </div>
+    );
+  }
+  
