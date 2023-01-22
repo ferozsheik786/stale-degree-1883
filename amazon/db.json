@@ -1,0 +1,52 @@
+{
+  "data":  [
+        {
+            
+            "name":"Apple Iphone 14pro",
+            "price":"₹: 1,38,599",
+            "details":"128gb Rom 4Gb Ram",
+            "image":"https://media.istockphoto.com/id/1371695315/photo/iphone-13-pro-sierra-blue.jpg?s=612x612&w=0&k=20&c=-0Mr9DdIRHFoLUozdltlHdkum0ChCNTGfLhxc-3oHmI=",
+            "id":"1"         
+        },
+        {
+            
+            "name":"Apple Iphone 14pro",
+            "price":"₹: 1,18,599",
+            "details":"128gb Rom 4Gb Ram",
+            "image":"https://media.istockphoto.com/id/1371695315/photo/iphone-13-pro-sierra-blue.jpg?s=612x612&w=0&k=20&c=-0Mr9DdIRHFoLUozdltlHdkum0ChCNTGfLhxc-3oHmI=",
+            "id":"1"         
+        },
+        {
+            
+            "name":"Apple Iphone 13pro",
+            "price":"₹: 81,599",
+            "details":"128gb Rom 4Gb Ram",
+            "image":"https://i.pinimg.com/736x/e1/a2/49/e1a249f84f7b900d43375a695339ab33.jpg",
+            "id":"1"         
+        },
+        {
+            
+            "name":"Apple Iphone 14pro Max",
+            "price":"₹: 1,18,599",
+            "details":"128gb Rom 4Gb Ram",
+            "image":"https://thumbs.dreamstime.com/b/iphone-pro-max-vector-smartphone-mockup-illustration-230605901.jpg",
+            "id":"1"         
+        },
+        {
+            
+            "name":"Apple Iphone 13pro",
+            "price":"₹: 81,599",
+            "details":"128gb Rom 4Gb Ram",
+            "image":"https://i.pinimg.com/736x/e1/a2/49/e1a249f84f7b900d43375a695339ab33.jpg",
+            "id":"1"         
+        },
+        {
+            
+            "name":"Apple Iphone 14pro Max",
+            "price":"₹: 1,18,599",
+            "details":"128gb Rom 4Gb Ram",
+            "image":"https://thumbs.dreamstime.com/b/iphone-pro-max-vector-smartphone-mockup-illustration-230605901.jpg",
+            "id":"1"         
+        }
+    ]
+}

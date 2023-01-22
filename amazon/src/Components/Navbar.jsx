@@ -1,7 +1,8 @@
 import { Link } from "react-router-dom";
-
+// import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
 
 function Navbar() {
+  
     return (
         <div id="nav" style={{
             display: "flex", justifyContent: "space-around",
@@ -46,8 +47,15 @@ function Navbar() {
             <Link to="/language">Language</Link>
             <Link to="/login">Login</Link> 
             <Link to="/returns">Returns</Link>
-            <Link to="/cart">Cart</Link>
+
+            
+            <Link to="/cart">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0tBS73GPTm5sRcq_9NrB5EPOleQM5bbEEUtn042wk4u2Fc6GcpXr8rRyfI1JjyGNR1fE&usqp=CAU"
+                 style={{height:"25px", width:"25px", marginTop:"-10px"}} alt="" />
+        Cart
+
+            </Link>
         </div>
     )
 }
-export default Navbar;
+export default Navbar; 

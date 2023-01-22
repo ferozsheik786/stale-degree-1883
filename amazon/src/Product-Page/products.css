@@ -1,0 +1,24 @@
+.grocery{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:25px;
+    margin-top:50px;
+    /* border: 1px solid red; */
+    }
+    .grocery>div{
+        height:350px; width:260px;
+        margin:auto;
+        margin-top:20px;
+        margin-bottom:25px;
+        border:1px sloid teal;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+    
+    }
+    h3{
+        color:black;
+    }
+    .grocery>div>img{
+        height:40%; width:auto;
+        margin-top:25px;
+    }
